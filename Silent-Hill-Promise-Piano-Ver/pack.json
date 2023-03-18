@@ -1,0 +1,10 @@
+{
+  "name": "Promise Piano Ver",
+  "description": "Piano version of Promise from Silent Hill 2 , taken from https://www.youtube.com/watch?v=LApkHzyKxrw&ab_channel=Myuu.",
+  "author": "animegeek45",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
